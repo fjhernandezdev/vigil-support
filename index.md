@@ -5,8 +5,9 @@
 Vigil is an ultra-lightweight, native macOS menu bar utility built in Swift 6 and optimized for Mac computers with Apple silicon (M1, M2, M3, and M4).
 
 - **[Privacy Policy](https://fjhernandezdev.github.io/vigil-support/privacy)**
+- **[Enterprise Security, InfoSec Verification & Corporate NDA](https://fjhernandezdev.github.io/vigil-support/security)**
 - **[Terms of Use (Standard Apple EULA)](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)**
-- **[Open a Support Ticket or Bug Report](https://github.com/fjhernandezdev/vigil-support/issues)**
+- **[Open a Support Ticket or Enterprise NDA Request](https://github.com/fjhernandezdev/vigil-support/issues)**
 
 ---
 
