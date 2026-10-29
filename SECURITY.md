@@ -26,7 +26,7 @@ Corporate InfoSec and Endpoint Security teams can independently verify Vigil's s
 
 ### A. Verify Kernel Sandbox & Absence of Network / File Entitlements
 ```bash
-codesign -d --entitlements :- /Applications/Vigil.app
+codesign -d --entitlements - --xml /Applications/Vigil.app | xmllint --format -
 ```
 **Expected Output (Mac App Store Build):**
 ```xml
